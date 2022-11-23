@@ -1,0 +1,27 @@
+{
+    "block_pools":
+    [
+        {
+            "name":"minecraft:dirt",
+            "type":{"type":"block","name":"minecraft:dirt"},
+            "clicktype":"rightclick",
+            "properties":[
+            {
+                "type": "require_sneak"
+            },
+            {
+                "type": "require_item",
+	"name": "minecraft:flint"
+            },
+            {
+                "type":"consume_item",
+                "amount": "1",
+                "chance": "100"
+            }],
+            "drops":[
+            {
+                "name":"minecraft:wheat_seeds","amount": "1","chance": "100"
+            }]
+        }
+    ]
+}

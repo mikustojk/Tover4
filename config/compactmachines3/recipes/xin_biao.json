@@ -1,0 +1,55 @@
+{
+    "name": "compactmachines3:xin_biao",
+    "target-item": "minecraft:beacon",
+    "target-count": 1,
+  
+    "duration": 2000,
+  
+    "catalyst": "t_addition:shadow_star",
+  
+    "input-types": {
+      "w": { "id": "compactmachines3:wallbreakable" },
+      "e": { "id": "botania:elfglass"},
+      "z": { "id": "minecraft:diamond_block"},
+      "g": { "id": "minecraft:sea_lantern"}
+    },
+  
+    "symmetrical": true,
+    "shape": [
+      [
+        ["e","e","e","e","e"],
+        ["e","e","e","e","e"],
+        ["e","e","e","e","e"],
+        ["e","e","e","e","e"],
+        ["e","e","e","e","e"]
+      ],
+      [
+        ["e","e","e","e","e"],
+        ["e","z","z","z","e"],
+        ["e","z","g","z","e"],
+        ["e","z","z","z","e"],
+        ["e","e","e","e","e"]
+      ],
+      [
+        ["e","e","e","e","e"],
+        ["e","z","g","z","e"],
+        ["e","g","_","g","e"],
+        ["e","z","g","z","e"],
+        ["e","e","e","e","e"]
+      ],
+      [
+        ["e","e","e","e","e"],
+        ["e","z","z","z","e"],
+        ["e","z","g","z","e"],
+        ["e","z","z","z","e"],
+        ["e","e","e","e","e"]
+      ],
+      [
+        ["w","w","w","w","w"],
+        ["w","w","w","w","w"],
+        ["w","w","w","w","w"],
+        ["w","w","w","w","w"],
+        ["w","w","w","w","w"]
+      ]
+    ]
+  }

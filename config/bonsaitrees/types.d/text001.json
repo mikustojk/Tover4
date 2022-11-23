@@ -1,0 +1,90 @@
+{
+  "name": "gravel_tree",
+  "mod": "minecraft",
+  "sapling": {
+    "name": "additions:t4-shali",
+    "data": 0
+  },
+  "growTimeMultiplier": 2.0,
+  "drops": [
+    {
+      "name": "minecraft:stone",
+      "data": 1,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+
+    },
+    {
+      "name": "minecraft:stone",
+      "data": 3,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+
+    },
+    {
+      "name": "minecraft:stone",
+      "data": 5,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+
+
+    },
+    {
+      "name": "advancedrocketry:basalt",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+
+    },
+    {
+      "name": "minecraft:netherrack",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.3
+    },
+    {
+      "name": "minecraft:cobblestone",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 2,
+      "chance": 0.2
+
+    },
+    {
+      "name": "minecraft:end_stone",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.3
+    },
+    {
+      "name": "magneticraft:limestone",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.4
+
+    },
+    {
+      "name": "minecraft:mossy_cobblestone",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.4
+
+    },
+    {
+      "name": "minecraft:gravel",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 2,
+      "chance": 0.2
+    }
+  ]
+}
+

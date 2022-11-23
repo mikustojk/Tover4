@@ -1,0 +1,9 @@
+{
+  "item_block": {
+    "name": "气血矿石",
+    "type": "additions:block_simple"
+  },
+  "name": "气血矿石",
+  "material": "minecraft:stone",
+  "type": "additions:simple"
+}

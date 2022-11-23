@@ -1,0 +1,8 @@
+{
+  "name": "木制剪刀",
+  "max_stack": 1,
+  "durability": 32,
+  "enchantability": 0,
+  "repair_stacks": {},
+  "type": "additions:shears"
+}

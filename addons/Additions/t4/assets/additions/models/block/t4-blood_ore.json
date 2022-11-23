@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "additions:blocks/t4-blood_ore"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "type": "gravel_tree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "advancedrocketry:basalt",
+      "meta": 0
+    },
+    "b": {
+      "name": "minecraft:netherrack",
+      "meta": 0
+    },
+    "c": {
+      "name": "magneticraft:limestone",
+      "meta": 0
+    },
+    "d": {
+      "name": "minecraft:mossy_cobblestone",
+      "meta": 0
+    },
+  
+    "e": {
+      "name": "botania:pylon",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "  c    ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  c    ",
+      " ccc   ",
+      "  b    ",
+      "  b    ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  c    ",
+      "       ",
+      "  bb   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " d     ",
+      "       ",
+      "       ",
+      "   b   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " d e   ",
+      "ddd    ",
+      " b   a ",
+      " bbb   ",
+      "   bbb ",
+      "   b   ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "       ",
+      " d   a ",
+      "    aaa",
+      "     b ",
+      "     b ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "     a ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "block_pools":
+    [
+        {
+            "name":"minecraft:dirt_block",
+            "type":{"type":"block","name":"minecraft:dirt"},
+            "clicktype":"rightclick",
+            "properties":[
+            {
+                "type": "require_sneak"
+            },
+            {
+                "type": "swing_hand"
+            },
+            {
+                "type": "require_empty_hand"
+            }],
+            "drops":[
+            {
+                "name":"minecraft:flint","amount": "2","chance": "100"
+            }]
+        }
+    ]
+}
